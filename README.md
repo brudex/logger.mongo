@@ -1,6 +1,6 @@
-# Resfify API boilerplate
+# Logging as a Service
 
-A basic layout to start API based on Node Js.
+Log application errors
 
 ## Installation
 
